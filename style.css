@@ -20,7 +20,7 @@ fieldset label {
     font-variant-caps: normal;
 }
 
-input {
+input, button, output {
     margin-bottom: calc(var(--base-size) / 2);
 }
 
